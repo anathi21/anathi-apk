@@ -1,0 +1,44 @@
+.xs{
+    border-radius: 0px;
+    background-color: red
+}
+
+.s{
+    border-bottom: 10%;
+    background-color: red
+
+}
+
+.m{
+    border-bottom: 10%;
+    background-color:red;
+    border: 10px solid;
+}
+
+.l{
+    border-radius: 10%;
+    background-color: red;
+}
+body{
+    
+  background-color:coral;  
+
+}
+P {
+    background-color: azure;
+}
+
+span.price {
+    float: right;
+    margin-right: 80%;
+    margin: auto;
+}
+ h1{
+     text-align: center;
+     background-color: azure;
+ }
+
+ p1{
+
+    text-align: center;
+ }
